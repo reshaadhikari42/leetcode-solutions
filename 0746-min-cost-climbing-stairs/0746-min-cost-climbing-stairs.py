@@ -1,0 +1,9 @@
+class Solution:
+    def minCostClimbingStairs(self, cost: list[int]) -> int:
+        dp = [0]* len(cost)
+        dp[0], dp[1] = cost[0], cost[1] #min cost for pos 2 is always itself, as cost[1] < cost[0] + cost[1]
+
+        for i in range(2, len(cost)):
+            dp[i] = cost[i] + min(dp[i-1], dp[i-2])
+
+        return min(dp[-1], dp[-2])
