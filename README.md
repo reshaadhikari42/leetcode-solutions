@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0853-car-fleet](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0853-car-fleet) |
 ## Stack
@@ -13,9 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0853-car-fleet](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0853-car-fleet) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
