@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0057-insert-interval) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0853-car-fleet](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0853-car-fleet) |
 ## Stack
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
