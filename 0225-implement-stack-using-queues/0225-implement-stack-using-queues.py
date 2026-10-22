@@ -14,6 +14,7 @@ class MyStack:
             self.queue1.append(self.queue2.popleft())
 
     def pop(self) -> int:
+        #if using just one queue, pop from the left till u reach the required element and add it to right.
         return self.queue1.popleft()
         
 
