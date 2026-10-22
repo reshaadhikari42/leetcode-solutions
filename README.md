@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0225-implement-stack-using-queues](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 ## Simulation
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
