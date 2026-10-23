@@ -64,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0394-decode-string) |
+| [0567-permutation-in-string](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
