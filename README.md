@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0853-car-fleet) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0853-car-fleet) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0853-car-fleet](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Quicksort
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0981-time-based-key-value-store](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
