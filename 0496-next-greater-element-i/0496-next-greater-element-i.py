@@ -21,17 +21,14 @@ we can use mapping and res to return the solution
         res[-1] = -1 #last element will not have anything greater so it will always be -1
 
         for i in range(len(nums2)-2,-1,-1):
-            if stack[-1] > nums2[i]:
+             #after cleaning the if and else cases. don't need a lot here.
+            while stack and stack[-1] <= nums2[i]:
+                stack.pop() #we don't need smaller elements
+            if stack:
                 res[i] = stack[-1]
-                stack.append(nums2[i])
-            else: #stack[-1] <= nums2[i]
-                while stack and stack[-1] <= nums2[i]:
-                    stack.pop() #we don't need smaller elements
-                if stack:
-                    res[i] = stack[-1]
-                else:
-                    res[i] = -1
-                stack.append(nums2[i])
+            else:
+                res[i] = -1
+            stack.append(nums2[i])
 
         #map back to hashMap
         ans = [0] * len(nums1)
