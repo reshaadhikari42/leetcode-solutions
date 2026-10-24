@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0496-next-greater-element-i](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0394-decode-string](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
@@ -115,5 +117,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
