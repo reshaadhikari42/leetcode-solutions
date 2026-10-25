@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0853-car-fleet) |
+| [1254-number-of-closed-islands](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Stack
 |  |
@@ -122,4 +123,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0567-permutation-in-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
