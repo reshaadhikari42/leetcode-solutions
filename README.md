@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0212-word-search-ii](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0435-non-overlapping-intervals](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0212-word-search-ii](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0394-decode-string](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
@@ -144,5 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [1254-number-of-closed-islands](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0212-word-search-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
