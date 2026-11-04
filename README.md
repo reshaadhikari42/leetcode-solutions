@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0055-jump-game) |
+| [0131-palindrome-partitioning](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0394-decode-string](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0212-word-search-ii) |
 ## Trie
 |  |
