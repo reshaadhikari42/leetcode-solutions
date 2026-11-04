@@ -1,4 +1,9 @@
 class Solution:
+    #time is O(n.n!) bc we are taking n! backtrack steps. 
+    #first row has n places for Q, second has n-1, 3rd has n-2.. and so on.
+    #total is n! and isSafe() func also takes O(n) time so it is O(n.n!)
+    #space is O(n^2) because converting board to strings using join also takes O(n^2) as each join takes n but there are n rows so its O(n^2) auxillary space.
+    #total space including output would be O(n.n!)
     def solveNQueens(self, n: int) -> list[list[str]]:
         board = [['.']*n for i in range(n)] #doing [['.']*n]*n means all rows point to same memory so changing one row can change others too
         res = []
@@ -16,9 +21,7 @@ class Solution:
         def dfs(r):
             temp = []
             if r == n:
-                for rows in range(n): #we can do this
-                    temp.append(''.join(board[rows]))
-                res.append(temp)
+                res.append([''.join(each) for each in board])
                 return
 
             for c in range(n): #cols = n as well
