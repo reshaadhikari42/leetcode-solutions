@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0057-insert-interval) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0212-word-search-ii) |
 ## Trie
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
