@@ -1,6 +1,7 @@
 class Solution:
     def findRedundantConnection(self, edges: list[list[int]]) -> list[int]:
         #this qn can be done with dfs cycle detection but union find has a better complexity. we can do this in almost linear time
+        #nodes are from 1 to n but array is 0 indexed so use len(n)+1
         parent = [i for i in range(len(edges)+1)]
         rank = [0]*(len(edges)+1)
 
