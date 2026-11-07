@@ -145,15 +145,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0684-redundant-connection](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [1254-number-of-closed-islands](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [1254-number-of-closed-islands](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [1254-number-of-closed-islands](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0051-n-queens) |
+## Graph Theory
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
