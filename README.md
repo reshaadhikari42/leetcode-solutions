@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0853-car-fleet) |
+| [0912-sort-an-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1254-number-of-closed-islands](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Stack
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0853-car-fleet](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0853-car-fleet) |
+| [0912-sort-an-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0355-design-twitter) |
+| [0912-sort-an-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -210,4 +213,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0127-word-ladder) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
