@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0684-redundant-connection](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1254-number-of-closed-islands](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0684-redundant-connection](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1254-number-of-closed-islands](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0355-design-twitter) |
+| [0743-network-delay-time](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Tree
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -233,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
