@@ -5,22 +5,20 @@ class Solution:
             adj_list[v].append([e,w])
 
         heap = []
-        heapq.heappush(heap, (0, k))#weight and node. node here is k i.e source node
+        heapq.heappush(heap,[0,k]) #distance, source.
         visit = set()
-        distance = [float('inf')]* (n+1) #except source node tho
-        distance[k] = 0
+        max_distance = 0
+
         while heap:
-            dist, node = heapq.heappop(heap)
+            distance, node = heapq.heappop(heap)
             if node in visit:
                 continue
             visit.add(node)
-            for nei,weight in adj_list[node]:
-                new_dist = dist+weight
-                if new_dist < distance[nei]:
-                    distance[nei] = new_dist
-                    heapq.heappush(heap,(new_dist, nei))
+            max_distance = distance #bc of heap property, we know that whatever dist we pop is the smallest distance to get to the node
+            for nei, weight in adj_list[node]:
+                heapq.heappush(heap, (distance+weight, nei))
 
-        if float('inf') in distance[1:]:
+        if len(visit) == n:
+            return max_distance
+        else:
             return -1
-
-        return max(distance[1:])
