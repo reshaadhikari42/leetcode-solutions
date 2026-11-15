@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Greedy
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0684-redundant-connection](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0684-redundant-connection](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0355-design-twitter](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0743-network-delay-time](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Tree
 |  |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -241,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
