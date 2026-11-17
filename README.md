@@ -251,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
