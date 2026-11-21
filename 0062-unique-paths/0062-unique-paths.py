@@ -1,4 +1,11 @@
 class Solution:
+    '''
+we do bottom up for this question. we solve using dp.
+we know that the last cell has 1 way to reach there.
+the last bottom cell has just one choice because the last row can't go down. only right
+if it goes out of bounds, we set the value to 0.
+'''
+
     def uniquePaths(self, m: int, n: int) -> int:
         dp = [[0]*n for i in range(m)] #creating a dp array
         dp[m-1][n-1] = 1 #one way to reach the last cell
