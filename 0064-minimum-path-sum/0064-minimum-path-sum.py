@@ -1,4 +1,10 @@
 class Solution:
+    '''
+works but causes TLE. its certainly asking to use DP.
+this is like unique paths. we start from the target and go all the way up.
+we take min of (right, down) + curr cell.
+ans is dp[0][0]
+'''
     def minPathSum(self, grid: list[list[int]]) -> int:
         rows, cols = len(grid), len(grid[0])
         dp = [[0]*cols for i in range(rows)]
