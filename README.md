@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0322-coin-change) |
 | [0332-reconstruct-itinerary](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0435-non-overlapping-intervals](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0682-baseball-game](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Greedy
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0494-target-sum](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0494-target-sum) |
 ## Trie
 |  |
 | ------- |
@@ -296,10 +299,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
