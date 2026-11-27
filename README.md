@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Design
 |  |
 | ------- |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0494-target-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
