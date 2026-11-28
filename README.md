@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0051-n-queens) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0981-time-based-key-value-store](https://github.com/reshaadhikari42/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 ## Hash Table
